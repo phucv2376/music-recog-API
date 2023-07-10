@@ -1,0 +1,26 @@
+{
+  "songs": [
+    {
+      "title": "I Really Want to Stay At Your House",
+      "images": {
+        "background": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1d/6b/b2/1d6bb205-ee2a-f0cf-49d8-02644a2c1847/cyberpunk-2077-radio-vol-2_3000.jpg/400x400cc.jpg",
+        "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1d/6b/b2/1d6bb205-ee2a-f0cf-49d8-02644a2c1847/cyberpunk-2077-radio-vol-2_3000.jpg/400x400cc.jpg",
+        "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1d/6b/b2/1d6bb205-ee2a-f0cf-49d8-02644a2c1847/cyberpunk-2077-radio-vol-2_3000.jpg/400x400cc.jpg",
+        "joecolor": "b:d4d200p:170208s:281b0ft:3d2c06q:4a400c"
+      },
+      "youtube_uri": "https://youtu.be/gzbLODUb1sA?autoplay=1",
+      "path": "/Users/phucvo/Documents/VSCode/music-recog-api/MusicDir/CPER.mp3"
+    },
+    {
+      "title": "I Really Want to Stay At Your House",
+      "images": {
+        "background": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1d/6b/b2/1d6bb205-ee2a-f0cf-49d8-02644a2c1847/cyberpunk-2077-radio-vol-2_3000.jpg/400x400cc.jpg",
+        "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1d/6b/b2/1d6bb205-ee2a-f0cf-49d8-02644a2c1847/cyberpunk-2077-radio-vol-2_3000.jpg/400x400cc.jpg",
+        "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1d/6b/b2/1d6bb205-ee2a-f0cf-49d8-02644a2c1847/cyberpunk-2077-radio-vol-2_3000.jpg/400x400cc.jpg",
+        "joecolor": "b:d4d200p:170208s:281b0ft:3d2c06q:4a400c"
+      },
+      "youtube_uri": "https://youtu.be/gzbLODUb1sA?autoplay=1",
+      "path": "/Users/phucvo/Documents/VSCode/music-recog-api/MusicDir/CPER.mp3"
+    }
+  ]
+}
